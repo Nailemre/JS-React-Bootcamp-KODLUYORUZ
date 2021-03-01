@@ -1,3 +1,4 @@
+///@Nail Emre Kayapinar
 'use strict';
 const tickets = [["JPN", "PHL"], ["BRA", "UAE"], ["USA", "BRA"], ['GER', 'USA'], ["UAE", "JPN"]]
 //const tickets = [["JPN", "PHL"], ["BRA", "UAE"], ["USA", "BRA"], ["UAE", "JPN"]]
